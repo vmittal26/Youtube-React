@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+.search_bar{
+    padding:5px;
+    border-radius:2px;
+    width:100%;
+    margin: 0 auto;
+    display: block;
+}
+
+.video-item{
+    
+}
