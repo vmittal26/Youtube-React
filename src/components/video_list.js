@@ -7,7 +7,7 @@ const VideoList = ({videos}) => {
     });
 
     return (
-        <div className="row m-0">
+        <div className="row video-list">
             {videoListItems}
         </div>
     );

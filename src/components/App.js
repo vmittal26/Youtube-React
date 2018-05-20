@@ -28,7 +28,7 @@ class App extends Component {
         YTSearch({
             key: API_KEY,
             term: term,
-            maxResults: '10'
+            maxResults: 10
         }, (videos) => this.setState({videos}));
     }
 }
